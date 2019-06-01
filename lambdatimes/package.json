@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^10.0.10",
     "dayjs": "^1.8.14",
     "moment-timezone": "^0.5.25",
     "momentjs": "^2.0.0",
