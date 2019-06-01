@@ -32,15 +32,15 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 
 PropTypes are used to make sure a that a specified object is being provided as a specific type. This ensures that our production application is actually working as intended. 
 
-- [ ] Describe a life-cycle event in React?
+- [X] Describe a life-cycle event in React?
 
 Life cycle events is the biggest push for react in the wild. Being able to affect the state of an object based on the lifecycle of react components is a powerful tool 
 
-- [ ] Explain the details of a Higher Order Component?
+- [X] Explain the details of a Higher Order Component?
 
 A higher order component is a classical component that is initially set up to be an anonymous component that can be reused as many times as needed, using the same state, prop values, and classNames each time it is used. 
 
-- [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+- [X] What are three different ways to style components in React? Explain some of the benefits of each.
 
 Using CSS style sheets
 - A sheet specific to each component. Can get a bit messy and looks like a jumble of code - usually lack of organization
