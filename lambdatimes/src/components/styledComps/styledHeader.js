@@ -15,6 +15,7 @@ export const HeaderDiv = styled.div`
     .header {
       width: 1280px;
     }
+  }
 `;
 
 export const HeaderH1 = styled.h1`
