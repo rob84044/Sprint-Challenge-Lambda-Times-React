@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import Carousel from '../Carousel/Carousel';
 import Tabs from './Tabs';
 import Cards from './Cards';
 
@@ -63,6 +63,7 @@ export default class Content extends Component {
           selectTabHandler={this.changeSelected}
           tabs={this.state.tabs}
         />
+        <Carousel />
         <Cards cards={this.filterCards()} />
       </div>
     );
