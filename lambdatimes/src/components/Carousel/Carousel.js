@@ -51,11 +51,11 @@ export default class Carousel extends Component {
     return (
       <div className="carousel">
         <div className="left-button" onClick={this.leftClick}>
-          {'<'}
+          &#8826;
         </div>
         {this.selectedImage()}
         <div className="right-button" onClick={this.rightClick}>
-          {'>'}
+          &#8827;
         </div>
       </div>
     );
